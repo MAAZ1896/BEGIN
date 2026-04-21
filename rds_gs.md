@@ -15,9 +15,13 @@ This getting started guide helps you navigate the initial setup and use of XXXX 
 * Key concepts and architecture of XXXX RDS.
   
 ### Purpose and benefits of XXXX RDS
+
 **Ease of setup** – Launch a DB instance using guided workflows or API calls.
+
 **Scalability** – Adjust compute and storage resources to meet changing demands.
+
 **Reliability** – Built-in fault tolerance and automated backups ensure your data is safe and available.
+
 **Security** – RDS supports encryption, network isolation, and identity-based access control to protect your data.
 
 ### Key concepts and architecture of XXXX RDS
