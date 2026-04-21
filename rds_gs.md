@@ -1,8 +1,7 @@
-Getting Started Guide
+
 # XXXX Relational Database Service
 
   
-
 
 ## Getting started with XXXX Relational Database Service
 
@@ -14,7 +13,7 @@ This getting started guide helps you navigate the initial setup and use of XXXX 
 * Purpose and benefits of XXXX RDS.
 * Key concepts and architecture of XXXX RDS.
   
-### Purpose and benefits of XXXX RDS
+#### Purpose and benefits of XXXX RDS
 
 **Ease of setup** – Launch a DB instance using guided workflows or API calls.
 
@@ -24,7 +23,7 @@ This getting started guide helps you navigate the initial setup and use of XXXX 
 
 **Security** – RDS supports encryption, network isolation, and identity-based access control to protect your data.
 
-### Key concepts and architecture of XXXX RDS
+#### Key concepts and architecture of XXXX RDS
 XXXX RDS is a fully managed service that simplifies the deployment and management of relational databases in the cloud. It supports multiple database engines and automates tasks like provisioning, patching, backups, and scaling so you can focus on application development.
 
 **Topics**
