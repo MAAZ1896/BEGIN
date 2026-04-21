@@ -1,17 +1,17 @@
 
 # XXXX Relational Database Service
 
--Getting started with XXXX Relational Database Service
-  -Purpose and benefits of XXXX RDS 
-  -Key concepts and architecture of XXXX RDS 
-Creating an XXXX RDS DB instance
-Choosing your database engine for XXXX RDS 
-Creating your first DB instance 
-  Console 
-Securing your XXXX RDS DB instance 
-Connecting to your XXXX RDS DB instance 
-  Using the XXXX RDS console to retrieve connection information 
-    Locating the endpoint and port 
+- Getting started with XXXX Relational Database Service
+  - Purpose and benefits of XXXX RDS 
+  - Key concepts and architecture of XXXX RDS 
+- Creating an XXXX RDS DB instance
+- Choosing your database engine for XXXX RDS 
+- Creating your first DB instance 
+  - Console 
+- Securing your XXXX RDS DB instance 
+- Connecting to your XXXX RDS DB instance 
+  - Using the XXXX RDS console to retrieve connection information 
+    - Locating the endpoint and port 
 
   
 
